@@ -1,0 +1,58 @@
+{
+  "system": {
+    "name": "S.V.I.",
+    "full_name": "Sistema de Vigilancia y Monitoreo Integral",
+    "version": "2.0",
+    "description": "Sistema integral de vigilancia y monitoreo con inteligencia artificial"
+  },
+  "modules": [
+    {
+      "id": "cameras",
+      "name": "Cámaras y Dispositivos",
+      "description": "Gestión de cámaras IP, DVR, NVR y dispositivos de monitoreo",
+      "features": ["Visualización en tiempo real", "Grabación", "Movimiento PTZ", "Alertas de desconexión"]
+    },
+    {
+      "id": "alerts",
+      "name": "Alertas",
+      "description": "Sistema de alertas y notificaciones del sistema de vigilancia",
+      "priorities": ["Crítica", "Alta", "Media", "Baja"],
+      "types": ["Movimiento detectado", "Cámara desconectada", "Intrusión", "Batería baja", "Fallo de red"]
+    },
+    {
+      "id": "events",
+      "name": "Eventos",
+      "description": "Registro histórico de todos los eventos del sistema",
+      "features": ["Filtrado por fecha", "Filtrado por cámara", "Filtrado por tipo", "Exportación"]
+    },
+    {
+      "id": "reports",
+      "name": "Reportes",
+      "description": "Generación de reportes de actividad y estadísticas",
+      "types": ["Diario", "Semanal", "Mensual", "Por cámara", "Por alertas", "Personalizado"]
+    },
+    {
+      "id": "map",
+      "name": "Mapa",
+      "description": "Visualización geográfica de dispositivos y zonas monitoreadas"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cómo ver una cámara en tiempo real?",
+      "answer": "Ve al módulo Cámaras, selecciona la cámara deseada y haz clic en 'Ver en vivo'."
+    },
+    {
+      "question": "¿Cómo exportar un reporte?",
+      "answer": "Ve a Reportes, selecciona el tipo y periodo, luego usa los botones PDF o Excel."
+    },
+    {
+      "question": "¿Qué significan las prioridades de alertas?",
+      "answer": "Crítica: acción inmediata requerida. Alta: atención urgente. Media: revisar pronto. Baja: informativa."
+    },
+    {
+      "question": "¿Cómo agregar una nueva cámara?",
+      "answer": "Ve a Configuración > Dispositivos > Agregar cámara. Necesitas la IP, usuario y contraseña del dispositivo."
+    }
+  ]
+}

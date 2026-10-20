@@ -1,0 +1,220 @@
+{
+  "principles": [
+    {
+      "id": 1,
+      "title": "ORGANIZO",
+      "subtitle": "Soy el arquitecto de mi vida",
+      "description": "Organizo mis pensamientos, mis acciones y mi entorno para crear armonía y claridad. La organización es la base de toda transformación. Sin estructura, el caos domina; con ella, la evolución es posible.",
+      "reflection_questions": [
+        "¿Qué área de tu vida necesita más organización en este momento?",
+        "¿Cómo te afecta el desorden en tu productividad diaria?",
+        "¿Qué sistema de organización podrías implementar hoy?"
+      ],
+      "challenges": [
+        "Organiza tu espacio de trabajo durante los próximos 7 días.",
+        "Crea una lista de prioridades para esta semana y síguuela.",
+        "Dedica 10 minutos cada noche a preparar el día siguiente."
+      ],
+      "color": "#2563EB",
+      "icon": "🗂️"
+    },
+    {
+      "id": 2,
+      "title": "APRENDO",
+      "subtitle": "El conocimiento es mi superpoder",
+      "description": "El aprendizaje continuo es mi motor. Cada día es una oportunidad de absorber nuevos conocimientos, habilidades y perspectivas. Aprendo de cada experiencia, de cada persona, de cada error.",
+      "reflection_questions": [
+        "¿Qué aprendiste hoy que no sabías ayer?",
+        "¿Cuál es el conocimiento que más deseas adquirir este año?",
+        "¿Cómo puedes convertir tus errores en aprendizajes?"
+      ],
+      "challenges": [
+        "Lee durante 20 minutos cada día esta semana.",
+        "Aprende una habilidad completamente nueva este mes.",
+        "Encuentra un mentor o una fuente de conocimiento nueva."
+      ],
+      "color": "#7C3AED",
+      "icon": "📚"
+    },
+    {
+      "id": 3,
+      "title": "PRODUZCO",
+      "subtitle": "Creo valor en todo lo que hago",
+      "description": "La producción es el puente entre el potencial y la realidad. No basta con tener ideas; debo convertirlas en resultados concretos. Produzco con propósito, con calidad y con impacto.",
+      "reflection_questions": [
+        "¿Qué creaste hoy que aportó valor?",
+        "¿Qué obstáculos te impiden ser más productivo?",
+        "¿Cómo puedes mejorar la calidad de tu producción?"
+      ],
+      "challenges": [
+        "Completa una tarea importante que hayas postergado.",
+        "Establece metas de producción medibles para la semana.",
+        "Elimina una distracción que reduce tu productividad."
+      ],
+      "color": "#059669",
+      "icon": "⚡"
+    },
+    {
+      "id": 4,
+      "title": "CONECTO",
+      "subtitle": "Las relaciones son mi red de evolución",
+      "description": "Las conexiones humanas son fundamentales para el crecimiento. Construyo relaciones auténticas, significativas y mutuamente beneficiosas. La red de personas que me rodea define mi ecosistema de evolución.",
+      "reflection_questions": [
+        "¿Con quién deberías conectar que podría transformar tu camino?",
+        "¿Qué relación necesita más atención de tu parte?",
+        "¿Cómo puedes ser más valioso para las personas en tu vida?"
+      ],
+      "challenges": [
+        "Contacta a alguien que admires y genera una conversación significativa.",
+        "Fortalece una relación existente con un acto de generosidad.",
+        "Únete a una comunidad relacionada con tu área de crecimiento."
+      ],
+      "color": "#D97706",
+      "icon": "🌐"
+    },
+    {
+      "id": 5,
+      "title": "CUIDO",
+      "subtitle": "Mi bienestar es mi responsabilidad",
+      "description": "Cuido mi cuerpo, mi mente y mi espíritu como los instrumentos principales de mi evolución. El autocuidado no es egoísmo; es la base desde la cual puedo cuidar y aportar a los demás.",
+      "reflection_questions": [
+        "¿Estás cuidando tu salud física, mental y emocional?",
+        "¿Qué hábito de autocuidado podrías incorporar esta semana?",
+        "¿Cómo te sientes cuando te cuidas adecuadamente?"
+      ],
+      "challenges": [
+        "Duerme 7-8 horas cada noche durante una semana.",
+        "Incorpora 30 minutos de actividad física en tu rutina diaria.",
+        "Practica 10 minutos de meditación o respiración consciente."
+      ],
+      "color": "#DC2626",
+      "icon": "💚"
+    },
+    {
+      "id": 6,
+      "title": "VOY MÁS ALLÁ DE MÍ",
+      "subtitle": "Cada día supero mis propios límites",
+      "description": "Cada día mejoro, reinvento y evoluciono. Voy más allá de lo que creía posible. Los límites son percepciones, y las percepciones pueden transformarse. Me atrevo a explorar lo desconocido dentro y fuera de mí.",
+      "reflection_questions": [
+        "¿Qué límite personal desafiarías si no tuvieras miedo?",
+        "¿Cuándo fue la última vez que te sorprendiste a ti mismo?",
+        "¿Qué versión de ti mismo quieres ser en 6 meses?"
+      ],
+      "challenges": [
+        "Realiza algo que te genere incomodidad pero que sabes que te hará crecer.",
+        "Establece una meta que parezca ambiciosa y crea un plan para lograrla.",
+        "Rompe un hábito limitante que hayas identificado."
+      ],
+      "color": "#0891B2",
+      "icon": "🚀"
+    },
+    {
+      "id": 7,
+      "title": "ME PERFECCIONO",
+      "subtitle": "La excelencia es mi estándar",
+      "description": "Busco la excelencia en todo lo que hago, no la perfección paralizante sino la mejora constante. Cada iteración me acerca más a la versión más elevada de mí mismo. La perfección es un viaje, no un destino.",
+      "reflection_questions": [
+        "¿En qué área de tu vida estás comprometido con la mejora continua?",
+        "¿Qué estándar de calidad quieres elevar?",
+        "¿Cómo mides tu progreso hacia la excelencia?"
+      ],
+      "challenges": [
+        "Dedica 30 minutos a perfeccionar una habilidad clave de tu profesión.",
+        "Solicita retroalimentación honesta de alguien que respetes.",
+        "Identifica un área de mejora y crea un plan de desarrollo específico."
+      ],
+      "color": "#9333EA",
+      "icon": "💎"
+    },
+    {
+      "id": 8,
+      "title": "TRASCIENDO",
+      "subtitle": "Mi impacto va más allá de mi presencia",
+      "description": "Vivo con un propósito que trasciende mi existencia individual. Mis acciones tienen un impacto que perdura. Trasciendo mis limitaciones personales y contribuyo a algo mayor que yo mismo.",
+      "reflection_questions": [
+        "¿Cuál es el legado que quieres dejar?",
+        "¿Cómo trascienden tus acciones a las personas que te rodean?",
+        "¿Qué contribución única puedes hacer al mundo?"
+      ],
+      "challenges": [
+        "Realiza un acto de servicio desinteresado hacia alguien que lo necesite.",
+        "Define tu propósito de vida en una sola oración poderosa.",
+        "Comparte un conocimiento valioso con alguien que pueda transformar su vida."
+      ],
+      "color": "#0F766E",
+      "icon": "✨"
+    },
+    {
+      "id": 9,
+      "title": "COMPARTO",
+      "subtitle": "Lo que doy, se multiplica",
+      "description": "Compartir es multiplicar. Cuando comparto mi conocimiento, mis recursos y mi tiempo, no los pierdo; los amplifico. La generosidad es la inversión más rentable del ser humano evolucionado.",
+      "reflection_questions": [
+        "¿Qué tienes en abundancia que podrías compartir más?",
+        "¿Alguna vez has dado y recibido más de lo que esperabas?",
+        "¿Cómo podrías contribuir más a tu comunidad?"
+      ],
+      "challenges": [
+        "Enseña algo que sabes a alguien que quiera aprender.",
+        "Comparte un recurso valioso con tu red esta semana.",
+        "Ofrece tu tiempo de forma voluntaria a una causa que te importe."
+      ],
+      "color": "#EA580C",
+      "icon": "🤝"
+    },
+    {
+      "id": 10,
+      "title": "IMAGINO",
+      "subtitle": "La imaginación es mi laboratorio del futuro",
+      "description": "La imaginación es el primer paso de toda creación. Visualizo futuros posibles y los convierto en intenciones concretas. Lo que puedo imaginar con claridad, puedo manifestar con determinación.",
+      "reflection_questions": [
+        "¿Cuál es la visión más audaz que tienes para tu futuro?",
+        "¿Con qué frecuencia te permites soñar en grande?",
+        "¿Qué innovación imaginas que podría cambiar tu área de trabajo?"
+      ],
+      "challenges": [
+        "Escribe durante 10 minutos sobre tu vida ideal en 5 años.",
+        "Crea un mapa mental de un proyecto que sueñas realizar.",
+        "Practica visualización creativa durante una semana."
+      ],
+      "color": "#BE123C",
+      "icon": "🌟"
+    },
+    {
+      "id": 11,
+      "title": "INNOVO",
+      "subtitle": "Soy un agente de cambio",
+      "description": "La innovación es mi compromiso con el progreso. No me conformo con lo establecido cuando existe una forma mejor. Busco activamente nuevas soluciones, nuevos enfoques y nuevas posibilidades.",
+      "reflection_questions": [
+        "¿Dónde ves una oportunidad de innovación en tu trabajo o vida?",
+        "¿Qué proceso podrías mejorar radicalmente?",
+        "¿Cuándo fue la última vez que hiciste algo de una manera completamente nueva?"
+      ],
+      "challenges": [
+        "Propón una mejora innovadora en tu trabajo o proyecto personal.",
+        "Experimenta con una metodología o herramienta nueva esta semana.",
+        "Cuestiona un proceso que das por sentado y busca una alternativa mejor."
+      ],
+      "color": "#1D4ED8",
+      "icon": "💡"
+    },
+    {
+      "id": 12,
+      "title": "LIDERO",
+      "subtitle": "Inspiro el cambio desde adentro",
+      "description": "El liderazgo más poderoso comienza con el autodominio. Lidero con el ejemplo, con integridad y con visión. Inspiro a otros no por mi posición sino por mi forma de ser y actuar en el mundo.",
+      "reflection_questions": [
+        "¿Cómo inspiras a las personas que te rodean?",
+        "¿Qué tipo de líder quieres ser?",
+        "¿Cuándo te has sentido más efectivo como líder?"
+      ],
+      "challenges": [
+        "Toma la iniciativa en un proyecto o situación donde otros esperan.",
+        "Mentoriza a alguien en una habilidad que dominas.",
+        "Establece una visión clara para un objetivo grupal y comunícala."
+      ],
+      "color": "#B45309",
+      "icon": "👑"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "templates": [
+    {
+      "id": "daily_summary",
+      "title": "Reporte Diario Ejecutivo",
+      "period": "24h",
+      "sections": ["Estado de cámaras", "Alertas críticas", "Eventos destacados", "Disponibilidad"]
+    },
+    {
+      "id": "cameras_health",
+      "title": "Diagnóstico de Cámaras y Canales",
+      "period": "Tiempo Real",
+      "sections": ["Cámaras operativas", "Cámaras desconectadas", "Latencia y calidad de video"]
+    },
+    {
+      "id": "security_audit",
+      "title": "Auditoría de Seguridad y Accesos",
+      "period": "7 días",
+      "sections": ["Intrusiones perimetrales", "Movimientos fuera de horario", "Recomendaciones de seguridad"]
+    }
+  ]
+}
