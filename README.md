@@ -1,4 +1,4 @@
-# 🤖 S.V.I. — Sistema de Vigilancia y Monitoreo Integral · AI Chatbot
+#  S.V.I. — Sistema de Vigilancia y Monitoreo Integral · AI Chatbot
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Tabla de Contenidos
+##  Tabla de Contenidos
 
 1. [Descripción del Proyecto](#descripción-del-proyecto)
 2. [Características Principales](#características-principales)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El **S.V.I. Chatbot** es una aplicación web de inteligencia artificial diseñada como asistente virtual para el *Sistema de Vigilancia y Monitoreo Integral*. Combina un dashboard de monitoreo en tiempo real con un chatbot potenciado por la **Google Gemini API**, permitiendo al usuario interactuar en lenguaje natural para consultar alertas, estadísticas de cámaras, generar reportes y explorar el módulo de crecimiento personal basado en la **Declaración de la Persona Transhumana** de la Universidad de Cundinamarca.
 
@@ -36,23 +36,23 @@ El **S.V.I. Chatbot** es una aplicación web de inteligencia artificial diseñad
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 | Característica | Descripción |
 |---|---|
-| 🤖 **Chatbot IA con Gemini** | Integrado con Google Gemini Flash para respuestas contextuales |
-| 📹 **Dashboard en vivo** | KPIs de cámaras, alertas, eventos y uptime del sistema |
-| 🧬 **Módulo Transhumano** | Los 12 principios de la Persona Transhumana integrados nativamente |
-| 🌍 **Multilingüe** | Detección automática de idioma (ES/EN) |
-| 💬 **Historial de chat** | Persistencia del historial en localStorage |
-| 🎯 **4 Modos de chat** | SVI, Transhuman, Reportes, General |
-| ⚡ **Rate Limiting** | 30 req/min por IP para protección del servidor |
-| 📊 **Panel Mi Evolución** | Registro del progreso del usuario en principios explorados |
-| 🎨 **Avatar robótico** | Humanoid camera avatar animado con estados visuales |
+|  **Chatbot IA con Gemini** | Integrado con Google Gemini Flash para respuestas contextuales |
+|  **Dashboard en vivo** | KPIs de cámaras, alertas, eventos y uptime del sistema |
+|  **Módulo Transhumano** | Los 12 principios de la Persona Transhumana integrados nativamente |
+|  **Multilingüe** | Detección automática de idioma (ES/EN) |
+|  **Historial de chat** | Persistencia del historial en localStorage |
+|  **4 Modos de chat** | SVI, Transhuman, Reportes, General |
+|  **Rate Limiting** | 30 req/min por IP para protección del servidor |
+|  **Panel Mi Evolución** | Registro del progreso del usuario en principios explorados |
+|  **Avatar robótico** | Humanoid camera avatar animado con estados visuales |
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 ```
 SVI_chatbot/
@@ -106,7 +106,7 @@ Usuario → Frontend (chatbot.js)
 
 ---
 
-## 🔗 Integración de LLM & Contexto
+##  Integración de LLM & Contexto
 
 ### Proveedor LLM
 
@@ -144,7 +144,7 @@ El servidor Express actúa como **proxy seguro** entre el frontend y la Gemini A
 
 ---
 
-## 📚 Base de Conocimiento & Prompting
+##  Base de Conocimiento & Prompting
 
 ### Estructura RAG / Contextual
 
@@ -195,7 +195,7 @@ Se envían los últimos **10 mensajes** del historial como contexto `contents`, 
 
 ---
 
-## ⚙️ Configuración y Despliegue
+##  Configuración y Despliegue
 
 ### Requisitos
 
@@ -254,7 +254,7 @@ El proyecto está preparado para despliegue con `node server.js`.
 
 ---
 
-## 📂 Control de Versiones
+##  Control de Versiones
 
 - **Repositorio público GitHub:** `https://github.com/MrBeto05/SVI_chatbot`
 - **Rama principal:** `main`
@@ -264,7 +264,7 @@ El proyecto está preparado para despliegue con `node server.js`.
 
 ---
 
-## 🧬 Declaración de la Persona Transhumana (UCundinamarca)
+##  Declaración de la Persona Transhumana (UCundinamarca)
 
 ### Integración Conceptual y Técnica en el Proyecto S.V.I.
 
@@ -274,18 +274,18 @@ La **Declaración de la Persona Transhumana de la Universidad de Cundinamarca** 
 
 | # | Principio | Subtítulo | Integración en S.V.I. |
 |---|---|---|---|
-| 1 | 🗂️ **ORGANIZO** | Soy el arquitecto de mi vida | El dashboard organiza información compleja en KPIs claros |
-| 2 | 📚 **APRENDO** | El conocimiento es mi superpoder | El chatbot IA enseña al usuario cómo usar el sistema |
-| 3 | ⚡ **PRODUZCO** | Creo valor en todo lo que hago | Generación de reportes automáticos con IA |
-| 4 | 🌐 **CONECTO** | Las relaciones son mi red | Integración de cámaras, alertas y usuarios en un ecosistema |
-| 5 | 💚 **CUIDO** | Mi bienestar es mi responsabilidad | Vigilancia y seguridad como acto de cuidado colectivo |
-| 6 | 🚀 **VOY MÁS ALLÁ** | Cada día supero mis límites | IA que augmenta las capacidades humanas de monitoreo |
-| 7 | 💎 **ME PERFECCIONO** | La excelencia es mi estándar | Iteración continua del sistema, prompts y conocimiento |
-| 8 | ✨ **TRASCIENDO** | Mi impacto va más allá | Tecnología de vigilancia que contribuye a la seguridad comunitaria |
-| 9 | 🤝 **COMPARTO** | Lo que doy, se multiplica | Chatbot que comparte conocimiento técnico con todos los usuarios |
-| 10 | 🌟 **IMAGINO** | La imaginación: laboratorio del futuro | Visualización de datos para imaginar patrones de seguridad |
-| 11 | 💡 **INNOVO** | Soy un agente de cambio | Uso de LLM + RAG en vigilancia: innovación aplicada |
-| 12 | 👑 **LIDERO** | Inspiro el cambio desde adentro | El sistema lidera la transformación digital en seguridad |
+| 1 |  **ORGANIZO** | Soy el arquitecto de mi vida | El dashboard organiza información compleja en KPIs claros |
+| 2 |  **APRENDO** | El conocimiento es mi superpoder | El chatbot IA enseña al usuario cómo usar el sistema |
+| 3 |  **PRODUZCO** | Creo valor en todo lo que hago | Generación de reportes automáticos con IA |
+| 4 |  **CONECTO** | Las relaciones son mi red | Integración de cámaras, alertas y usuarios en un ecosistema |
+| 5 |  **CUIDO** | Mi bienestar es mi responsabilidad | Vigilancia y seguridad como acto de cuidado colectivo |
+| 6 |  **VOY MÁS ALLÁ** | Cada día supero mis límites | IA que augmenta las capacidades humanas de monitoreo |
+| 7 |  **ME PERFECCIONO** | La excelencia es mi estándar | Iteración continua del sistema, prompts y conocimiento |
+| 8 |  **TRASCIENDO** | Mi impacto va más allá | Tecnología de vigilancia que contribuye a la seguridad comunitaria |
+| 9 |  **COMPARTO** | Lo que doy, se multiplica | Chatbot que comparte conocimiento técnico con todos los usuarios |
+| 10 |  **IMAGINO** | La imaginación: laboratorio del futuro | Visualización de datos para imaginar patrones de seguridad |
+| 11 |  **INNOVO** | Soy un agente de cambio | Uso de LLM + RAG en vigilancia: innovación aplicada |
+| 12 |  **LIDERO** | Inspiro el cambio desde adentro | El sistema lidera la transformación digital en seguridad |
 
 ### Implementación técnica del módulo transhumano
 
@@ -318,7 +318,7 @@ const Transhuman = {
 
 ---
 
-## 🔮 Reflexión Transhumana
+##  Reflexión Transhumana
 
 ---
 
