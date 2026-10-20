@@ -9,7 +9,6 @@
 
 **Chatbot inteligente para sistema de vigilancia, con módulo de Persona Transhumana, integrado con Google Gemini API.**
 
-[🚀 Demo en Vivo](#despliegue) · [📖 Documentación](#arquitectura) · [🧬 Módulo Transhumano](#declaración-de-la-persona-transhumana)
 
 </div>
 
@@ -208,7 +207,7 @@ Se envían los últimos **10 mensajes** del historial como contexto `contents`, 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/SVI_chatbot.git
+git clone https://github.com/MrBeto05/SVI_chatbot.git
 cd SVI_chatbot
 
 # Instalar dependencias
@@ -240,10 +239,9 @@ npm run dev
 ```bash
 # Variables de entorno en el panel del servicio:
 GEMINI_API_KEY=AIzaSy...
-PORT=3000
 ```
 
-El proyecto está preparado para despliegue con `npm start` (el `Procfile` o `start` script de `package.json` ejecuta `node server.js`).
+El proyecto está preparado para despliegue con `node server.js`.
 
 #### Endpoints disponibles
 
@@ -258,7 +256,7 @@ El proyecto está preparado para despliegue con `npm start` (el `Procfile` o `st
 
 ## 📂 Control de Versiones
 
-- **Repositorio público GitHub:** `https://github.com/TU_USUARIO/SVI_chatbot`
+- **Repositorio público GitHub:** `https://github.com/MrBeto05/SVI_chatbot`
 - **Rama principal:** `main`
 - **`.gitignore`** excluye: `node_modules/`, `.env` (protección de la API Key)
 
@@ -320,11 +318,11 @@ const Transhuman = {
 
 ---
 
-## 🔮 Reflexión Transhumana · Preguntas Requeridas
+## 🔮 Reflexión Transhumana
 
 ---
 
-### 🇨🇴 ESPAÑOL
+### ESPAÑOL
 
 #### ¿De qué manera el agente/chatbot respeta y fomenta los principios de la Declaración de la Persona Transhumana de la Universidad de Cundinamarca en el contexto del aprendizaje y la interacción tecnológica?
 
@@ -352,7 +350,7 @@ La arquitectura misma del proyecto es un ejercicio de innovación: usar RAG (Ret
 
 ---
 
-### 🇺🇸 ENGLISH
+### ENGLISH
 
 #### How does the implemented AI agent/chatbot align with and support the Transhuman Person Declaration of Universidad de Cundinamarca regarding ethical AI integration, human augmentation, and educational transformation?
 
@@ -382,17 +380,7 @@ The Transhuman module creates a space for personal reflection within a technical
 
 The S.V.I. Chatbot does not merely use AI — it demonstrates that AI, when built with ethical intentionality and human-centered design, becomes an instrument of **TRASCENDENCIA** (#8): technology whose impact extends beyond the immediate user, contributing to a safer, more connected, and more evolved community.
 
----
-
-## 📄 Licencia
-
-MIT License — Universidad de Cundinamarca · Proyecto académico
-
----
-
 <div align="center">
-
-**Desarrollado con ❤️ y ética transhumana**
 
 *S.V.I. — Vigilar, Aprender, Trascender*
 
